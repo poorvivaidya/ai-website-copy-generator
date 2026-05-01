@@ -42,3 +42,9 @@ Contact details are placeholders and can be replaced with actual business inform
 ## 🚀 Outcome
 
 This project demonstrates how AI can help local businesses improve clarity, trust, and customer conversions.
+
+## 🌐 Live Website
+
+[View Spin Salon Website](https://spin-salon.framer.website/)
+
+
