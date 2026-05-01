@@ -35,6 +35,10 @@ to generate clear and persuasive website content.
 * Non-generic content
 * Ready-to-use website copy
 
+## Note
+
+Contact details are placeholders and can be replaced with actual business information
+
 ## 🚀 Outcome
 
 This project demonstrates how AI can help local businesses improve clarity, trust, and customer conversions.
