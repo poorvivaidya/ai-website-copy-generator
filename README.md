@@ -47,4 +47,5 @@ This project demonstrates how AI can help local businesses improve clarity, trus
 
 [View Spin Salon Website](https://spin-salon.framer.website/)
 
+This project demonstrates how structured prompts can generate real, conversion-focused website content for local businesses.
 
